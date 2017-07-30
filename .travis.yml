@@ -1,0 +1,18 @@
+language: php
+
+branches:
+  only:
+    - master
+    - dev
+
+install:
+  - composer self-update
+  - composer update --prefer-dist
+  - composer install
+
+script:
+  phpunit tests/
+
+php:
+  - 7.0
+  - 7.1
