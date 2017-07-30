@@ -1,4 +1,5 @@
 ## DCI money transfer application example
+[![Build Status](https://travis-ci.org/agoosev/dci-money-transfer-example.svg?branch=master)](https://travis-ci.org/agoosev/dci-money-transfer-example)
 
 ### About DCI: 
 1. [Wiki](https://en.wikipedia.org/wiki/Data,_context_and_interaction)
